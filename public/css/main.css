@@ -1,0 +1,98 @@
+nav {
+    background-color: blue;
+    width: 100%;
+    z-index: 12;
+}
+
+a {
+    color: #fff;
+}
+
+a:hover {
+    color: black;
+}
+
+.header-isi {
+    display: flex;
+}
+
+.menu {
+    display: flex;
+    margin-left: 910px;
+}
+
+.logo {
+    margin-left: 90px;
+    color: #fff;
+    font-style: oblique;
+}
+
+.menu p {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.judul {
+    text-align: center;
+}
+
+.produk {
+    margin-top: 90px;
+}
+
+.produk h2 {
+    text-align: center;
+}
+
+.isi-produk {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+}
+
+.isi-produk p {
+    text-align: center;
+}
+
+.isi-produk img {
+    width: 400px;
+}
+
+.layanan {
+    display: flex;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.outfit {
+    width: 400px;
+}
+
+.hub {
+    align-items: center;
+    margin-top: 95px;
+    margin-left: 50px;
+}
+
+.hub div{
+    align-items: center;
+    display: flex;
+}
+
+.sosmed {
+    width: 50px;
+}
+
+#footer h2 {
+    text-align: center;
+    font-size: 1.8rem;
+    padding: 2.6rem;
+    font-weight: 500;
+    color: #fff;
+    background: #897f7a;
+  }
+  
+  #footer {
+    background: #897f7a;
+    color: #fff;
+  }
